@@ -1,7 +1,11 @@
-# Quality Management
+# Teaching Toolkit
+
+## MGT 124
+
+### Quality Management
 
 
-# Process Analysis
+### Process Analysis
 
-## Flow Chart Tool
-<a href="http://wentoday.com/download/csufresno/om/flowchart_tool.html" target="_blank">http://wentoday.com/download/csufresno/om/flowchart_tool.html</a>
+- <a href="http://wentoday.com/download/csufresno/om/flowchart_tool.html" target="_blank">Flow Chart Tool</a>
+A flowchart is a visual diagram, widely used in process analysis, design, and improvement, that represents the sequence of steps, decisions, and actions within a process using standardized symbols.

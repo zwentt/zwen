@@ -1,4 +1,4 @@
-# Teaching Toolkit
+# Teaching Toolkits
 
 ## MGT 124
 

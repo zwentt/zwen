@@ -1,6 +1,11 @@
 # Teaching Toolkits
 
-## MGT 124
+## MGT 124 Production/Operations Management
+
+### Misc. 
+
+- <a href="http://wentoday.com/download/csufresno/om/summation.html" target="_blank"> Studying Summation Symbols </a> This interactive study component explains the summation symbol - Sigma. It explains the core building blocks, common examples, and even study quizzes. 
+
 
 ### Quality Management
 
@@ -17,9 +22,6 @@ The X-bar chart helps you quickly see whether your process mean is stable (in co
 The X-bar and R chart helps you quickly see whether your process mean and standard deviation is stable (in control) or unstable (out of control).
 
 ### Process Analysis
-
-- <a href="http://wentoday.com/download/csufresno/om/flowchart_tool.html" target="_blank">Flow Chart Tool</a>
-A flowchart is a visual diagram, widely used in process analysis, design, and improvement, that represents the sequence of steps, decisions, and actions within a process using standardized symbols.
 
 - <a href="http://wentoday.com/download/csufresno/om/flowchart_tool.html" target="_blank">Flow Chart Tool</a>
 A flowchart is a visual diagram, widely used in process analysis, design, and improvement, that represents the sequence of steps, decisions, and actions within a process using standardized symbols.

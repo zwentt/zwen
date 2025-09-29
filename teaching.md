@@ -29,5 +29,8 @@ A flowchart is a visual diagram, widely used in process analysis, design, and im
 - <a href="http://wentoday.com/download/csufresno/om/littles_law_simulator.html" target="_blank">Supply- and Demand- Constrained Process </a>
 Based on Little’s Law, this simulator demonstrates how inventory levels (or service backlogs) change when the supply and demand flow rates are not aligned.
 
+- <a href="http://wentoday.com/download/csufresno/om/process_capacity_tool.html" target="_blank">Process Capacity Analysis Tool </a>
+This process capacity analysis tool illustrates that overall capacity is governed by the pace of the bottleneck workstation. For the purpose of teaching, although the visualization depicts an initially empty process flow, the dashboard metrics are calculated under steady-state operating conditions.
+
 ### Lean Philosophy
 - 5S 

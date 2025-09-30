@@ -32,5 +32,8 @@ Based on Little’s Law, this simulator demonstrates how inventory levels (or se
 - <a href="http://wentoday.com/download/csufresno/om/process_capacity_tool.html" target="_blank">Process Capacity Analysis Tool </a>
 This process capacity analysis tool illustrates that overall capacity is governed by the pace of the bottleneck workstation. For the purpose of teaching, although the visualization depicts an initially empty process flow, the dashboard metrics are calculated under steady-state operating conditions.
 
+- <a href="http://www.wentoday.com/download/csufresno/om/automation_diagnostics.html" target="_blank">Automation Vulnerability Diagnostic Test </a>
+This diagnostic test tool assesses how vulnerable a service process can be based on three areas of diagnosis: repetitiveness, standardizability, and divisibility of the tasks. It visualizes the result using a spider web diagram. 
+
 ### Lean Philosophy
 - 5S 

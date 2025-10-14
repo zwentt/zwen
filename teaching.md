@@ -2,16 +2,6 @@
 
 ## MGT 124 Production/Operations Management
 
-
-### Location & Layout Problems
-
-- <a href="http://wentoday.com//download/csufresno/om/gravity_center.html" target="_blank"> Center of Gravity Locator </a> This interactive study tool assists in identifying the gravity center based on the specified target locations. Additionally, it displays nearby cities as potential candidates for logistics center locations. 
-
-- <a href="http://wentoday.com//download/csufresno/om/tsp_visualizer.html" target="_blank"> Traveling Sales Person Problem </a> This visualization tool demonstrates how to plan an efficient travel route that visits each city once and returns to the starting point. It helps users understand routing efficiency and how total travel distance can be reduced through better sequencing. 
-
-- <a href="http://wentoday.com//download/csufresno/om/qap-demo-tool.html" target="_blank"> Quadratic Assignment Problem </a> This interactive tool explores how to assign departments or facilities to locations in a way that minimizes overall movement (therefore, communication cost). It helps visualize how layout decisions affect total efficiency in a workspace or production system. 
-
-
 ### Quality Management
 
 - <a href="http://zwen.shinyapps.io/dpmo_6sigma" target="_blank"> Six Sigma Simulator (DPMO) </a>
@@ -43,6 +33,14 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 ### Lean Philosophy
 - 5S
 
+
+### Location & Layout Problems
+
+- <a href="http://wentoday.com//download/csufresno/om/gravity_center.html" target="_blank"> Center of Gravity Locator </a> This interactive study tool assists in identifying the gravity center based on the specified target locations. Additionally, it displays nearby cities as potential candidates for logistics center locations. 
+
+- <a href="http://wentoday.com//download/csufresno/om/tsp_visualizer.html" target="_blank"> Traveling Sales Person Problem </a> This visualization tool demonstrates how to plan an efficient travel route that visits each city once and returns to the starting point. It helps users understand routing efficiency and how total travel distance can be reduced through better sequencing. 
+
+- <a href="http://wentoday.com//download/csufresno/om/qap-demo-tool.html" target="_blank"> Quadratic Assignment Problem </a> This interactive tool explores how to assign departments or facilities to locations in a way that minimizes overall movement (therefore, communication cost). It helps visualize how layout decisions affect total efficiency in a workspace or production system. 
 
 
 ### Misc. Topics

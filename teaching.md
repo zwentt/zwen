@@ -47,3 +47,4 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 
 - <a href="http://wentoday.com/download/csufresno/om/summation.html" target="_blank"> Studying Summation Symbols </a> This interactive study component explains the summation symbol - Sigma. It explains the core building blocks, common examples, and even study quizzes.
 
+- <a href="http://wentoday.com/download/csufresno/om/job_shop_simulator.html" target="_blank"> Job Shop Scheduling </a> This tool illustrates the intricacies of a job shop environment by demonstrating how delays can occur when products with varying task sequences enter the queue. Careful planning of the facility layout and strategic task sequencing can mitigate these issues. 

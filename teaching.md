@@ -39,7 +39,7 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 - <a href="http://wentoday.com//download/csufresno/om/qap-demo-tool.html" target="_blank"> Quadratic Assignment Problem </a> This interactive tool explores how to assign departments or facilities to locations in a way that minimizes overall movement (therefore, communication cost). It helps visualize how layout decisions affect total efficiency in a workspace or production system.
 
 ### Lean Philosophy
-- 5S
+- <a href="http://wentoday.com//download/csufresno/om/5s_weekly_report.html" target="_blank"> 5S Weekly Report & Checklist </a> This tool allows students to generate a 5S activity report. They can report their actions, their feelings about the results, and their overall progress in implementing the 5S principles. The report can be saved in PDF format. 
 
 ### Misc. Topics
 

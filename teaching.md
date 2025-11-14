@@ -8,7 +8,7 @@
 This simulator helps visualize how process variation and specification limits affect quality performance and defect rates in a production process.
 
 - <a href="http://wentoday.com/download/csufresno/om/failure_rate_simulator.html" target="_blank"> Failure Rate Estimator </a>
-This estimator visualies the process of estimating the failure rate (i.e., the speed at which an object decays) of a product. The example uses light bulbs. 
+This estimator visualizes the process of estimating the failure rate (i.e., the speed at which an object decays) of a product. The example uses light bulbs. 
 
 - <a href="http://zwen.shinyapps.io/control_chart" target="_blank"> Control Chart (X-bar Chart) Simulator </a>
 The X-bar chart helps you quickly see whether your process mean is stable (in control) or unstable (out of control).

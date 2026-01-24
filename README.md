@@ -1,7 +1,7 @@
 # Zhezhu Wen, Ph.D. 
 Welcome to my website. 
 
-Assistent Professor of Operations Mgmt. 
-Craig School of Business
-California State University, Fresno
-zwen@csufresno.edu
+Assistent Professor of Operations Mgmt. <br>
+Craig School of Business <br>
+California State University, Fresno <br>
+zwen@csufresno.edu <br>

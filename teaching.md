@@ -56,3 +56,6 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 
 - <a href="http://wentoday.com/downloads/csufresno/om/diminishing_returns_demo.html" target="_blank"> Diminishing Marginal Productivity </a> This is an interactive tool that demonstrates the economic concept of diminishing marginal productivity through real-world scenarios, showing how adding more resources (workers, study time, etc.) eventually leads to smaller increases in output.
 
+- <a href="www.wentoday.com/downloads/csufresno/om/forecasting_tool.html" target="_blank"> Forecasting Tools </a> This is an interactive tool that demonstrates five forecasting techniques in operations management through Central Valley scenarios, showing how different methods (Naive, Moving Average, Weighted Moving Average, Exponential Smoothing, and Trend Projection) perform with various data patterns.
+
+

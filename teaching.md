@@ -28,7 +28,10 @@ Based on Little’s Law, this simulator demonstrates how inventory levels (or se
 This process capacity analysis tool illustrates that overall capacity is governed by the pace of the bottleneck workstation. For the purpose of teaching, although the visualization depicts an initially empty process flow, the dashboard metrics are calculated under steady-state operating conditions.
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/automation_diagnostics.html" target="_blank">Automation Vulnerability Diagnostic Test </a>
-This diagnostic test tool assesses how vulnerable a service process can be based on three areas of diagnosis: repetitiveness, standardizability, and divisibility of the tasks. It visualizes the result using a spider web diagram. 
+This diagnostic test tool assesses how vulnerable a service process can be based on three areas of diagnosis: repetitiveness, standardizability, and divisibility of the tasks. It visualizes the result using a spider web diagram.
+
+
+- <a href="http://www.wentoday.com/downloads/csufresno/om/inventory_visualization.html" target="_blank">Inventory Buildup Simulation </a> This is an Inventory Accumulation Visualizer, a simulation tool that demonstrates how inventory builds up when supply and demand rates differ.
 
 ### Location & Layout Problems
 

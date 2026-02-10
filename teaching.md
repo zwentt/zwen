@@ -58,4 +58,5 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/forecasting_tool.html" target="_blank"> Forecasting Tools </a> This is an interactive tool that demonstrates five forecasting techniques in operations management through Central Valley scenarios, showing how different methods (Naive, Moving Average, Weighted Moving Average, Exponential Smoothing, and Trend Projection) perform with various data patterns.
 
+- <a href="http://www.wentoday.com/downloads/csufresno/om/deviation_visualizer.html" target="_blank"> Deviation Visualizer </a> This is an interactive tool that visualizes and calculates deviation measures (SSE, MSE, MAD, MAPE, Variance) by comparing actual data against forecasts or mean values with optional deviation line displays.
 

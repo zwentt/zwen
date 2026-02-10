@@ -16,6 +16,8 @@ The X-bar chart helps you quickly see whether your process mean is stable (in co
 - <a href="https://zwen.shinyapps.io/control_charts_xr/" target="_blank"> Control Chart (X-bar and R Chart) Simulator </a>
 The X-bar and R chart helps you quickly see whether your process mean and standard deviation is stable (in control) or unstable (out of control).
 
+- <a href="http://www.wentoday.com/downloads/csufresno/om/deming_14_affinity.html" target="_blank"> Deming's 14 Points </a> This tool helps students organize Deming's 14 quality management principles into custom categories using drag-and-drop sticky notes, then export their groupings as a PDF.
+
 ### Process Analysis
 
 - <a href="http://wentoday.com/downloads/csufresno/om/flowchart_tool.html" target="_blank">Flow Chart Tool</a>
@@ -59,4 +61,3 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 - <a href="http://www.wentoday.com/downloads/csufresno/om/forecasting_tool.html" target="_blank"> Forecasting Tools </a> This is an interactive tool that demonstrates five forecasting techniques in operations management through Central Valley scenarios, showing how different methods (Naive, Moving Average, Weighted Moving Average, Exponential Smoothing, and Trend Projection) perform with various data patterns.
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/deviation_visualizer.html" target="_blank"> Deviation Visualizer </a> This is an interactive tool that visualizes and calculates deviation measures (SSE, MSE, MAD, MAPE, Variance) by comparing actual data against forecasts or mean values with optional deviation line displays.
-

@@ -6,6 +6,8 @@
 
 - <a href="http://zwen.shinyapps.io/dpmo_6sigma" target="_blank"> Six Sigma Simulator (DPMO) </a>
 This simulator helps visualize how process variation and specification limits affect quality performance and defect rates in a production process.
+- <a href="http://wentoday.com/downloads/csufresno/om/six-sigma-analyzer.html" target="_blank"> Six Sigma Process Analyzer </a>
+This interactive tool visualizes process capability distributions against specification limits while instantly calculating key Six Sigma metrics like Cp, Cpk, and DPMO.
 
 - <a href="http://wentoday.com/downloads/csufresno/om/failure_rate_simulator.html" target="_blank"> Failure Rate Estimator </a>
 This estimator visualizes the process of estimating the failure rate (i.e., the speed at which an object decays) of a product. The example uses light bulbs. 

@@ -63,3 +63,6 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 - <a href="http://www.wentoday.com/downloads/csufresno/om/deviation_visualizer.html" target="_blank"> Deviation Visualizer </a> This is an interactive tool that visualizes and calculates deviation measures (SSE, MSE, MAD, MAPE, Variance) by comparing actual data against forecasts or mean values with optional deviation line displays.
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/formula-pad.html" target="_blank"> Formula Pad </a> This is an interactive tool that demonstrates Excel-style formulas through a web interface that provides real-time results and formula tips.
+  
+- <a href="http://www.wentoday.com/downloads/csufresno/om/clt-visualizer.html" target="_blank"> CLT Visualizer </a> An interactive tool that visually demonstrates the Central Limit Theorem by showing how sample means form a precise Normal Distribution (Sampling Distribution) even when drawn from skewed or irregular populations.
+

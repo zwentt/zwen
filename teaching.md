@@ -22,6 +22,9 @@ The X-bar and R chart helps you quickly see whether your process mean and standa
 
 ### Process Analysis
 
+- <a href="http://wentoday.com/downloads/csufresno/om/product-process-matrix-implications.html" target="_blank"> Process-Product Matrix Worksheet </a> This is an interactive, exportable digital worksheet designed to help students practice and map out the managerial implications of different production processes.
+
+
 - <a href="http://wentoday.com/downloads/csufresno/om/flowchart_tool.html" target="_blank">Flow Chart Tool</a>
 A flowchart is a visual diagram, widely used in process analysis, design, and improvement, that represents the sequence of steps, decisions, and actions within a process using standardized symbols.
 

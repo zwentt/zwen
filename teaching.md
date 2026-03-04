@@ -24,7 +24,6 @@ The X-bar and R chart helps you quickly see whether your process mean and standa
 
 - <a href="http://wentoday.com/downloads/csufresno/om/product-process-matrix-implications.html" target="_blank"> Process-Product Matrix Worksheet </a> This is an interactive, exportable digital worksheet designed to help students practice and map out the managerial implications of different production processes.
 
-
 - <a href="http://wentoday.com/downloads/csufresno/om/flowchart_tool.html" target="_blank">Flow Chart Tool</a>
 A flowchart is a visual diagram, widely used in process analysis, design, and improvement, that represents the sequence of steps, decisions, and actions within a process using standardized symbols.
 
@@ -37,8 +36,9 @@ This process capacity analysis tool illustrates that overall capacity is governe
 - <a href="http://www.wentoday.com/downloads/csufresno/om/automation_diagnostics.html" target="_blank">Automation Vulnerability Diagnostic Test </a>
 This diagnostic test tool assesses how vulnerable a service process can be based on three areas of diagnosis: repetitiveness, standardizability, and divisibility of the tasks. It visualizes the result using a spider web diagram.
 
-
 - <a href="http://www.wentoday.com/downloads/csufresno/om/inventory_visualization.html" target="_blank">Inventory Buildup Simulation </a> This is an Inventory Accumulation Visualizer, a simulation tool that demonstrates how inventory builds up when supply and demand rates differ.
+- <a href="http://www.wentoday.com/downloads/csufresno/om/batch-size-visualizer.html" target="_blank">Batch Size Determination Visualizer </a> This tool is an interactive calculator and visualizer that determines the optimal production batch size for a shared resource to perfectly balance setup times with customer demand.
+
 
 ### Location & Layout Problems
 

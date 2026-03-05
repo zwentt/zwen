@@ -37,7 +37,14 @@ This process capacity analysis tool illustrates that overall capacity is governe
 This diagnostic test tool assesses how vulnerable a service process can be based on three areas of diagnosis: repetitiveness, standardizability, and divisibility of the tasks. It visualizes the result using a spider web diagram.
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/inventory_visualization.html" target="_blank">Inventory Buildup Simulation </a> This is an Inventory Accumulation Visualizer, a simulation tool that demonstrates how inventory builds up when supply and demand rates differ.
+
 - <a href="http://www.wentoday.com/downloads/csufresno/om/batch-size-visualizer.html" target="_blank">Batch Size Determination Visualizer </a> This tool is an interactive calculator and visualizer that determines the optimal production batch size for a shared resource to perfectly balance setup times with customer demand.
+
+
+### Service Processes
+
+- <a href="http://www.wentoday.com/downloads/csufresno/om/mm1-queuing.html" target="_blank">m/m/1 Queuing System Visualizer </a> This is an interactive, web-based simulator that uses a coffee shop theme to visually and mathematically model a m/m/1 queuing system.
+
 
 
 ### Location & Layout Problems

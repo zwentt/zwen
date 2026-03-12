@@ -30,6 +30,8 @@ A flowchart is a visual diagram, widely used in process analysis, design, and im
 - <a href="http://wentoday.com/downloads/csufresno/om/littles_law_simulator.html" target="_blank">Supply- and Demand- Constrained Process </a>
 Based on Little’s Law, this simulator demonstrates how inventory levels (or service backlogs) change when the supply and demand flow rates are not aligned.
 
+- <a href="http://www.wentoday.com/downloads/csufresno/om/capacity-demand-misalignment.html" target="_blank">Capacity and Demand Misalignment </a> This tool demonstrates often overlooked capacity-related cost penalty components in calculating cost per unit of production (or transaction).
+
 - <a href="http://wentoday.com/downloads/csufresno/om/process_capacity_tool.html" target="_blank">Process Capacity Analysis Tool </a>
 This process capacity analysis tool illustrates that overall capacity is governed by the pace of the bottleneck workstation. For the purpose of teaching, although the visualization depicts an initially empty process flow, the dashboard metrics are calculated under steady-state operating conditions.
 
@@ -41,11 +43,13 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 - <a href="http://www.wentoday.com/downloads/csufresno/om/batch-size-visualizer.html" target="_blank">Batch Size Determination Visualizer </a> This tool is an interactive calculator and visualizer that determines the optimal production batch size for a shared resource to perfectly balance setup times with customer demand.
 
 
-### Service Processes
+### Queuing and Service Processes
 
-- <a href="http://www.wentoday.com/downloads/csufresno/om/mm1-queuing.html" target="_blank">m/m/1 Queuing System Visualizer </a> This is an interactive, web-based simulator that uses a coffee shop theme to visually and mathematically model a m/m/1 queuing system.
+- <a href="http://www.wentoday.com/downloads/csufresno/om/gg1-queuing.html" target="_blank">g/g/1 Queuing System Visualizer </a> This is an interactive, web-based simulator that uses a coffee shop theme to visually and mathematically model a m/m/1 queuing system.
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/queuing-visualization.html" target="_blank">General Queuing System Visualizer </a> This is an interactive tool demonstrates different types of single server queuing processes with visualizations and downloadable simulated datasets.
+
+- <a href="http://www.wentoday.com/downloads/csufresno/om/ggm-waitline-visualizer.html" target="_blank">G/G/m Queuing System Visualizer </a> This is an interactive tool demonstrates G/G/m queuing system. This particular tool illustrates how the utilization rate and the number of servers affect the average wait time. 
 
 ### Location & Layout Problems
 

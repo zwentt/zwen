@@ -49,7 +49,9 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/queuing-visualization.html" target="_blank">General Queuing System Visualizer </a> This is an interactive tool demonstrates different types of single server queuing processes with visualizations and downloadable simulated datasets.
 
-- <a href="http://www.wentoday.com/downloads/csufresno/om/ggm-waitline-visualizer.html" target="_blank">G/G/m Queuing System Visualizer </a> This is an interactive tool demonstrates G/G/m queuing system. This particular tool illustrates how the utilization rate and the number of servers affect the average wait time. 
+- <a href="http://www.wentoday.com/downloads/csufresno/om/ggm-waitline-visualizer.html" target="_blank">G/G/m Queuing System Visualizer </a> This is an interactive tool demonstrates G/G/m queuing system. This particular tool illustrates how the utilization rate and the number of servers affect the average wait time.
+
+- <a href="http://www.wentoday.com/downloads/csufresno/om/erlangBTable.html" target="_blank"> Erlang B Table Visualizer </a> This is an interactive dashboard that uses the Erlang B formula to calculate and visualize the probability of incoming demand being lost because all servers in a system are currently busy. M/M/m/m Queue
 
 ### Location & Layout Problems
 

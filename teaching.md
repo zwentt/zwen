@@ -38,9 +38,7 @@ This process capacity analysis tool illustrates that overall capacity is governe
 - <a href="http://www.wentoday.com/downloads/csufresno/om/automation_diagnostics.html" target="_blank">Automation Vulnerability Diagnostic Test </a>
 This diagnostic test tool assesses how vulnerable a service process can be based on three areas of diagnosis: repetitiveness, standardizability, and divisibility of the tasks. It visualizes the result using a spider web diagram.
 
-- <a href="http://www.wentoday.com/downloads/csufresno/om/inventory_visualization.html" target="_blank">Inventory Buildup Simulation </a> This is an Inventory Accumulation Visualizer, a simulation tool that demonstrates how inventory builds up when supply and demand rates differ.
 
-- <a href="http://www.wentoday.com/downloads/csufresno/om/batch-size-visualizer.html" target="_blank">Batch Size Determination Visualizer </a> This tool is an interactive calculator and visualizer that determines the optimal production batch size for a shared resource to perfectly balance setup times with customer demand.
 
 
 ### Queuing and Service Processes
@@ -64,7 +62,16 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 - <a href="http://www.wentoday.com//downloads/csufresno/om/job-shop-layout-improvement.html" target="_blank"> Job Shop Layout Improvement </a> This interactive tool is a job shop simulator that lets users rearrange factory floor layouts to instantly visualize how department placement impacts travel distance, wait times, and overall production throughput.
 
 ### Lean Philosophy
-- <a href="http://www.wentoday.com//downloads/csufresno/om/5s_weekly_report.html" target="_blank"> 5S Weekly Report & Checklist </a> This tool allows students to generate a 5S activity report. They can report their actions, their feelings about the results, and their overall progress in implementing the 5S principles. The report can be saved in PDF format. 
+- <a href="http://www.wentoday.com//downloads/csufresno/om/5s_weekly_report.html" target="_blank"> 5S Weekly Report & Checklist </a> This tool allows students to generate a 5S activity report. They can report their actions, their feelings about the results, and their overall progress in implementing the 5S principles. The report can be saved in PDF format.
+
+
+### Inventory Management 
+- <a href="http://www.wentoday.com//downloads/csufresno/om/eoq.html" target="_blank"> EOQ Visualizer </a> This visualizer serves as a live, interactive teaching artifact designed to bring the abstract math of the Economic Order Quantity (EOQ) model into a tangible, visual format.
+
+- <a href="http://www.wentoday.com/downloads/csufresno/om/inventory_visualization.html" target="_blank">Inventory Buildup Simulation </a> This is an Inventory Accumulation Visualizer, a simulation tool that demonstrates how inventory builds up when supply and demand rates differ.
+
+- <a href="http://www.wentoday.com/downloads/csufresno/om/batch-size-visualizer.html" target="_blank">Batch Size Determination Visualizer </a> This tool is an interactive calculator and visualizer that determines the optimal production batch size for a shared resource to perfectly balance setup times with customer demand.
+
 
 ### Misc. Topics
 

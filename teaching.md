@@ -1,6 +1,6 @@
 # Teaching Toolkits
 
-## MGT 124 Production/Operations Management
+## MGT 124 Production/Operations Management & MBA 205 Production Operations Management
 
 ### Quality Management
 

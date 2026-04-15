@@ -75,6 +75,8 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 
 ### Misc. Topics
 
+- <a href="http://www.wentoday.com/downloads/csufresno/om/contribution.html" target="_blank"> Contribution Margin vs Contribution Ratio Visualizer </a> This interactive study tool helps visaulize contribution margin and contribution ratio in multiproduct sales mix.
+
 - <a href="http://www.wentoday.com/downloads/csufresno/om/contribution-margin-calc.html" target="_blank"> Multiproduct Contribution Margin Ratio Calculator </a> This interactive study tool helps calculate the weighted contribution ratio when multiple products or product categories are involved.
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/summation.html" target="_blank"> Studying Summation Symbols </a> This interactive study component explains the summation symbol - Sigma. It explains the core building blocks, common examples, and even study quizzes.

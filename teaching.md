@@ -72,6 +72,8 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/batch-size-visualizer.html" target="_blank">Batch Size Determination Visualizer </a> This tool is an interactive calculator and visualizer that determines the optimal production batch size for a shared resource to perfectly balance setup times with customer demand.
 
+- <a href="http://www.wentoday.com/downloads/csufresno/om/probablisticDemandLT.html" target="_blank">Probabilistic ROP Model </a> This tool is an interactive simulation that visualizes uncertain inventory demand during delivery wait times (or the lead time) to help assess the impact of safety stock.
+
 
 ### Misc. Topics
 

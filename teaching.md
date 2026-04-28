@@ -1,6 +1,6 @@
 # Teaching Toolkits
 
-## Production, Operations, and Ssupply Chain Management
+## Production, Operations, and Supply Chain Management
 
 ### Quality Management
 

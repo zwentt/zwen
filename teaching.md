@@ -26,7 +26,7 @@ The X-bar and R chart helps you quickly see whether your process mean and standa
 - <a href="http://wentoday.com/downloads/csufresno/om/flowchart_tool.html" target="_blank">Flow Chart Tool</a>
 A flowchart is a visual diagram, widely used in process analysis, design, and improvement, that represents the sequence of steps, decisions, and actions within a process using standardized symbols.
 
-- <a href="http://wentoday.com/downloads/csufresno/om/littles_law_simulator.html" target="_blank">Supply- and Demand- Constrained Process </a>
+- <a href="http://wentoday.com/downloads/csufresno/om/littles_law_simulator.html" target="_blank">Capacity- and Demand- Constrained Process </a>
 Based on Little’s Law, this simulator demonstrates how inventory levels (or service backlogs) change when the supply and demand flow rates are not aligned.
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/capacity-demand-misalignment.html" target="_blank">Capacity and Demand Misalignment </a> This tool demonstrates often overlooked capacity-related cost penalty components in calculating cost per unit of production (or transaction).

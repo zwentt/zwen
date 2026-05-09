@@ -1,11 +1,11 @@
-# Teaching Toolkits
+# Teaching OM: A Collection of Interactive Simulators and Worksheets
 
 ## Production, Operations, and Supply Chain Management
 
-### Quality Management
-
+### Quality Management & Statistical Process Control
 - <a href="http://zwen.shinyapps.io/dpmo_6sigma" target="_blank"> Six Sigma Simulator (DPMO) </a>
 This simulator helps visualize how process variation and specification limits affect quality performance and defect rates in a production process.
+
 - <a href="http://wentoday.com/downloads/csufresno/om/six-sigma-analyzer.html" target="_blank"> Six Sigma Process Analyzer </a>
 This interactive tool visualizes process capability distributions against specification limits while instantly calculating key Six Sigma metrics like Cp, Cpk, and DPMO.
 
@@ -20,8 +20,7 @@ The X-bar and R chart helps you quickly see whether your process mean and standa
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/deming_14_affinity.html" target="_blank"> Deming's 14 Points </a> This tool helps students organize Deming's 14 quality management principles into custom categories using drag-and-drop sticky notes, then export their groupings as a PDF.
 
-### Process Analysis
-
+### Process Analysis & Capacity Management
 - <a href="http://wentoday.com/downloads/csufresno/om/product-process-matrix-implications.html" target="_blank"> Process-Product Matrix Worksheet </a> This is an interactive, exportable digital worksheet designed to help students practice and map out the managerial implications of different production processes.
 
 - <a href="http://wentoday.com/downloads/csufresno/om/flowchart_tool.html" target="_blank">Flow Chart Tool</a>
@@ -38,11 +37,9 @@ This process capacity analysis tool illustrates that overall capacity is governe
 - <a href="http://www.wentoday.com/downloads/csufresno/om/automation_diagnostics.html" target="_blank">Automation Vulnerability Diagnostic Test </a>
 This diagnostic test tool assesses how vulnerable a service process can be based on three areas of diagnosis: repetitiveness, standardizability, and divisibility of the tasks. It visualizes the result using a spider web diagram.
 
+- <a href="http://www.wentoday.com/downloads/csufresno/om/diminishing_returns_demo.html" target="_blank"> Diminishing Marginal Productivity </a> This is an interactive tool that demonstrates the economic concept of diminishing marginal productivity through real-world scenarios, showing how adding more resources (workers, study time, etc.) eventually leads to smaller increases in output.
 
-
-
-### Queuing and Service Processes
-
+### Queuing & Service Operations
 - <a href="http://www.wentoday.com/downloads/csufresno/om/gg1-queuing.html" target="_blank">g/g/1 Queuing System Visualizer </a> This is an interactive, web-based simulator that uses a coffee shop theme to visually and mathematically model a m/m/1 queuing system.
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/queuing-visualization.html" target="_blank">General Queuing System Visualizer </a> This is an interactive tool demonstrates different types of single server queuing processes with visualizations and downloadable simulated datasets.
@@ -51,8 +48,7 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/erlangBTable.html" target="_blank"> Erlang B Table Visualizer </a> This is an interactive dashboard that uses the Erlang B formula to calculate and visualize the probability of incoming demand being lost because all servers in a system are currently busy. M/M/m/m Queue
 
-### Location & Layout Problems
-
+### Location, Layout, & Routing Strategy
 - <a href="http://www.wentoday.com//downloads/csufresno/om/gravity_center.html" target="_blank"> Center of Gravity Locator </a> This interactive study tool assists in identifying the gravity center based on the specified target locations. Additionally, it displays nearby cities as potential candidates for logistics center locations. 
 
 - <a href="http://www.wentoday.com//downloads/csufresno/om/tsp_visualizer.html" target="_blank"> Traveling Sales Person Problem </a> This visualization tool demonstrates how to plan an efficient travel route that visits each city once and returns to the starting point. It helps users understand routing efficiency and how total travel distance can be reduced through better sequencing. 
@@ -60,10 +56,6 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 - <a href="http://www.wentoday.com//downloads/csufresno/om/qap-demo-tool.html" target="_blank"> Quadratic Assignment Problem </a> This interactive tool explores how to assign departments or facilities to locations in a way that minimizes overall movement (therefore, communication cost). It helps visualize how layout decisions affect total efficiency in a workspace or production system.
 
 - <a href="http://www.wentoday.com//downloads/csufresno/om/job-shop-layout-improvement.html" target="_blank"> Job Shop Layout Improvement </a> This interactive tool is a job shop simulator that lets users rearrange factory floor layouts to instantly visualize how department placement impacts travel distance, wait times, and overall production throughput.
-
-### Lean Philosophy
-- <a href="http://www.wentoday.com//downloads/csufresno/om/5s_weekly_report.html" target="_blank"> 5S Weekly Report & Checklist </a> This tool allows students to generate a 5S activity report. They can report their actions, their feelings about the results, and their overall progress in implementing the 5S principles. The report can be saved in PDF format.
-
 
 ### Inventory Management 
 - <a href="http://www.wentoday.com//downloads/csufresno/om/eoq.html" target="_blank"> EOQ Visualizer </a> This visualizer serves as a live, interactive teaching artifact designed to bring the abstract math of the Economic Order Quantity (EOQ) model into a tangible, visual format.
@@ -74,26 +66,31 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/probablisticDemandLT.html" target="_blank">Probabilistic ROP Model </a> This tool is an interactive simulation that visualizes uncertain inventory demand during delivery wait times (or the lead time) to help assess the impact of safety stock.
 
+### Scheduling & Lean Operations
+- <a href="http://www.wentoday.com/downloads/csufresno/om/job_shop_simulator.html" target="_blank"> Job Shop Scheduling </a> This tool illustrates the intricacies of a job shop environment by demonstrating how delays can occur when products with varying task sequences enter the queue. Careful planning of the facility layout and strategic task sequencing can mitigate these issues. 
 
-### Misc. Topics
+- <a href="http://www.wentoday.com//downloads/csufresno/om/5s_weekly_report.html" target="_blank"> 5S Weekly Report & Checklist </a> This tool allows students to generate a 5S activity report. They can report their actions, their feelings about the results, and their overall progress in implementing the 5S principles. The report can be saved in PDF format.
 
+### Forecasting & Demand Planning
+- <a href="http://www.wentoday.com/downloads/csufresno/om/forecasting_tool.html" target="_blank"> Forecasting Tools </a> This is an interactive tool that demonstrates five forecasting techniques in operations management through Central Valley scenarios, showing how different methods (Naive, Moving Average, Weighted Moving Average, Exponential Smoothing, and Trend Projection) perform with various data patterns.
+
+- <a href="http://www.wentoday.com/downloads/csufresno/om/deviation_visualizer.html" target="_blank"> Deviation Visualizer </a> This is an interactive tool that visualizes and calculates deviation measures (SSE, MSE, MAD, MAPE, Variance) by comparing actual data against forecasts or mean values with optional deviation line displays.
+
+### Performance Measurement & Cost Analysis
 - <a href="http://www.wentoday.com/downloads/csufresno/om/contribution.html" target="_blank"> Contribution Margin vs Contribution Ratio Visualizer </a> This interactive study tool helps visaulize contribution margin and contribution ratio in multiproduct sales mix.
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/contribution-margin-calc.html" target="_blank"> Multiproduct Contribution Margin Ratio Calculator </a> This interactive study tool helps calculate the weighted contribution ratio when multiple products or product categories are involved.
 
-- <a href="http://www.wentoday.com/downloads/csufresno/om/summation.html" target="_blank"> Studying Summation Symbols </a> This interactive study component explains the summation symbol - Sigma. It explains the core building blocks, common examples, and even study quizzes.
-
-- <a href="http://www.wentoday.com/downloads/csufresno/om/job_shop_simulator.html" target="_blank"> Job Shop Scheduling </a> This tool illustrates the intricacies of a job shop environment by demonstrating how delays can occur when products with varying task sequences enter the queue. Careful planning of the facility layout and strategic task sequencing can mitigate these issues. 
-
 - <a href="http://www.wentoday.com/downloads/csufresno/om/dea_visualizer.html" target="_blank"> DEA Visualizer </a> An interactive educational tool that visualizes Data Envelopment Analysis (DEA) - a method for identifying which organizations (hospitals, schools, stores, etc.) operate most efficiently by plotting them on a graph where the "efficiency frontier" shows best performers and highlights which units are underperforming relative to their peers.
 
-- <a href="http://www.wentoday.com/downloads/csufresno/om/diminishing_returns_demo.html" target="_blank"> Diminishing Marginal Productivity </a> This is an interactive tool that demonstrates the economic concept of diminishing marginal productivity through real-world scenarios, showing how adding more resources (workers, study time, etc.) eventually leads to smaller increases in output.
-
-- <a href="http://www.wentoday.com/downloads/csufresno/om/forecasting_tool.html" target="_blank"> Forecasting Tools </a> This is an interactive tool that demonstrates five forecasting techniques in operations management through Central Valley scenarios, showing how different methods (Naive, Moving Average, Weighted Moving Average, Exponential Smoothing, and Trend Projection) perform with various data patterns.
-
-- <a href="http://www.wentoday.com/downloads/csufresno/om/deviation_visualizer.html" target="_blank"> Deviation Visualizer </a> This is an interactive tool that visualizes and calculates deviation measures (SSE, MSE, MAD, MAPE, Variance) by comparing actual data against forecasts or mean values with optional deviation line displays.
+### Quantitative Methods & Foundations
+- <a href="http://www.wentoday.com/downloads/csufresno/om/summation.html" target="_blank"> Studying Summation Symbols </a> This interactive study component explains the summation symbol - Sigma. It explains the core building blocks, common examples, and even study quizzes.
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/formula-pad.html" target="_blank"> Formula Pad </a> This is an interactive tool that demonstrates Excel-style formulas through a web interface that provides real-time results and formula tips.
   
 - <a href="http://www.wentoday.com/downloads/csufresno/om/clt-visualizer.html" target="_blank"> CLT Visualizer </a> An interactive tool that visually demonstrates the Central Limit Theorem by showing how sample means form a precise Normal Distribution (Sampling Distribution) even when drawn from skewed or irregular populations.
 
+
+###### Acknowledgments & Disclaimers
+> **AI Assistance:** Please note that Artificial Intelligence (AI) was utilized in the development and coding of these interactive tools. If you encounter any bugs, have suggestions for improvement, or would like to provide feedback, please feel free to contact the author.
+> **Academic Inspiration:** Several examples, scenarios, and underlying visualizations within these tools are inspired by classic Operations Management literature, notably *Operations Management: Sustainability and Supply Chain Management* by Jay Heizer, Barry Render, and Chuck Munson, as well as *Operations Management* by Gérard Cachon and Christian Terwiesch.

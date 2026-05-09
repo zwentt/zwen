@@ -40,7 +40,7 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 - <a href="http://www.wentoday.com/downloads/csufresno/om/diminishing_returns_demo.html" target="_blank"> Diminishing Marginal Productivity </a> This is an interactive tool that demonstrates the economic concept of diminishing marginal productivity through real-world scenarios, showing how adding more resources (workers, study time, etc.) eventually leads to smaller increases in output.
 
 ### Queuing & Service Operations
-- <a href="http://www.wentoday.com/downloads/csufresno/om/gg1-queuing.html" target="_blank">g/g/1 Queuing System Visualizer </a> This is an interactive, web-based simulator that uses a coffee shop theme to visually and mathematically model a m/m/1 queuing system.
+- <a href="http://www.wentoday.com/downloads/csufresno/om/gg1-queuing.html" target="_blank">G/G/1 Queuing System Visualizer </a> This is an interactive, web-based simulator that uses a coffee shop theme to visually and mathematically model a G/G/1 queuing system.
 
 - <a href="http://www.wentoday.com/downloads/csufresno/om/queuing-visualization.html" target="_blank">General Queuing System Visualizer </a> This is an interactive tool demonstrates different types of single server queuing processes with visualizations and downloadable simulated datasets.
 

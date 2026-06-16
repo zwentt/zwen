@@ -86,6 +86,10 @@ This diagnostic test tool assesses how vulnerable a service process can be based
 ### Quantitative Methods & Foundations
 - <a href="http://www.wentoday.com/downloads/csufresno/om/summation.html" target="_blank"> Studying Summation Symbols </a> This interactive study component explains the summation symbol - Sigma. It explains the core building blocks, common examples, and even study quizzes.
 
+- <a href="http://www.wentoday.com/downloads/csufresno/om/summationGuide.html" target="_blank"> Summation Symbol Guide </a> An interactive pipeline that walks you step-by-step through how a single summation formula evaluates a dataset to calculate a final value.
+
+- <a href="http://www.wentoday.com/downloads/csufresno/om/summationGuideDoubleLayered.html" target="_blank"> Double Summation Formulas Guide </a> A dynamic visualizer that tracks how double summation formulas process 2D matrices by executing inner and outer loops in real-time.
+
 - <a href="http://www.wentoday.com/downloads/csufresno/om/formula-pad.html" target="_blank"> Formula Pad </a> This is an interactive tool that demonstrates Excel-style formulas through a web interface that provides real-time results and formula tips.
   
 - <a href="http://www.wentoday.com/downloads/csufresno/om/clt-visualizer.html" target="_blank"> CLT Visualizer </a> An interactive tool that visually demonstrates the Central Limit Theorem by showing how sample means form a precise Normal Distribution (Sampling Distribution) even when drawn from skewed or irregular populations.
